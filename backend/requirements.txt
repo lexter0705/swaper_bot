@@ -1,1 +1,6 @@
-fastapi
+fastapi==0.115.8
+tonutils==0.2.5
+sqlalchemy==2.0.38
+pydantic==2.10.6
+requests==2.32.3
+cryptography==44.0.1
